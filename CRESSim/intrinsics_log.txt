@@ -1,0 +1,13 @@
+Camera Intrinsic Parameters:
+Focal Length: 50
+Field of View: 80
+Near Clip Plane: 0.3
+Far Clip Plane: 1000
+Sensor Size: (36.00, 24.00)
+Lens Shift: (0.00, 0.00)
+Resolution: 160 x 240
+
+Intrinsic Matrix (row-major):
+222.2222	0.0000	80.0000
+0.0000	333.3333	120.0000
+0.0000	0.0000	1.0000
